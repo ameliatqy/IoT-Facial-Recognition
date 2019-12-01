@@ -1,4 +1,4 @@
-# IoT-Facial-Recognition
+# Facial Recognition System (SmartLab Project)
 
 This repository contains the code for the facial recognition module of an IoT 'Smart Lab' system for the BuildGT Hackathon, Spring 2018. My partner and I wanted to create a system that automated the research lab that we both work in. We focused on unlocking the lab door using a facial recognition system, which would eliminate the need for keys to get into our lab.
 
